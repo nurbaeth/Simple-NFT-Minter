@@ -16,7 +16,7 @@ Simple NFT Minter is a smart contract that allows an owner to mint ERC-721 NFTs 
 - Ethereum-compatible blockchain  
  
 ## Installation 
-1. Clone the repository: 
+1. Clone the repository:  
    ```sh 
    git clone https://github.com/yourusername/simple-nft-minter.git
    cd simple-nft-minter
