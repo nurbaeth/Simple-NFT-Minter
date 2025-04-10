@@ -8,7 +8,7 @@ Simple NFT Minter is a smart contract that allows an owner to mint ERC-721 NFTs 
 - Owner-controlled minting
 - Metadata storage with custom token URIs
 - Maximum supply restriction
-- Configurable base URI  
+- Configurable base URI   
 
 ## Requirements
 - Solidity ^0.8.19  
